@@ -71,8 +71,8 @@ s.
 ``
 
 ## Concepts Used:
-[pickle](https://docs.python.org/3/library/pickle.html)
-[ASCII](http://www.asciitable.com/)
+* [pickle](https://docs.python.org/3/library/pickle.html)
+* [ASCII](http://www.asciitable.com/)
 
 ## Solving the Challenge
 Reading the title of the challenge, I was able to recognize that the data was being converted into a byte stream using the Python pickle library. 
