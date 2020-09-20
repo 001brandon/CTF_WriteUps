@@ -2,7 +2,7 @@ import pickle
 import string
 flag=""
 
-pickleFile=open(r"C:\Users\brook\Downloads\data","rb")
+pickleFile=open(r"C:\Users\file\data","rb")
 contents=pickle.load(pickleFile)
 for key, value in contents.items():
     if key<24:
