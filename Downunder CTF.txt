@@ -1,3 +1,0 @@
-Homepage:
-Welcome!:
-In a pickle: DUCTF{p1ckl3_y0uR_m3554g3}
